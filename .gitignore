@@ -1,0 +1,13 @@
+# Archivos temporales y de simulación
+*.log
+*.jou
+*.str
+*.wdb
+*.pb
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.Xil/
+*.runs/
+*.tmp/
